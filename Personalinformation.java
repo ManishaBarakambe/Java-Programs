@@ -1,4 +1,4 @@
-package javaPrograms;
+package chapter1;
 
 public class Personalinformation {
 
